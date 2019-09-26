@@ -9,6 +9,7 @@ body {
     background: url(./../simpsons.jpg) no-repeat center center fixed;
     background-size: cover;
     background-attachment: fixed;
+    zoom:75%;
 }
 
 p, h2{
